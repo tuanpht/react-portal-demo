@@ -10,7 +10,11 @@ function Sun() {
   return (
     <Box title="You are in the Sun?!">
       No surprise!! Too hot...
-      <button type="button" className="btn btn-primary" onClick={() => setIsOpen(true)}>
+      <button
+        type="button"
+        className="btn btn-primary"
+        onClick={() => setIsOpen(true)}
+      >
         Escape
       </button>
       <Modal
