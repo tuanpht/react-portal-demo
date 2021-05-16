@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Intro
+Demo:
+
+https://tuanpht.github.io/react-portal-demo
+
+[![Edit React Portal Demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/practical-waterfall-scnwn?fontsize=14&hidenavigation=1&theme=dark&view=preview)
+
+![](https://images.viblo.asia/51369e20-afb2-462b-a9fb-6f5d65b22c6c.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
